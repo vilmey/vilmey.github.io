@@ -152,7 +152,7 @@
 	      <form method="post" id="gform" name ="contactform" action="https://script.google.com/macros/s/AKfycbwXr4e9b4hdhcjL3UdGLHep2p0AiiCmzXBDiVx6YxQq_gz1RjY/exec">
 	        
 	        <label class="sr-only">Keep this field blank</label>
-	  <input id="honeypot" type="text" name="honeypot" value="" />
+	  <input display="none" type="text" name="honeypot" value="" />
 	        
 	        <div class="input-group">
 	          <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
@@ -173,7 +173,7 @@
 	 </div>
 	  <div>
 	    <h3 class="text-center">You can also find me at:</h3>
-	    <h3 class="text-center"><a href="https://www.linkedin.com/in/vilmey/?locale=en_US" target="_blank" class="fa fa-linkedin"></a> 
+	    <h3 class="text-center"><a margin="10px" href="https://www.linkedin.com/in/vilmey/?locale=en_US" target="_blank" class="fa fa-linkedin"></a> 
 	    <a href="#" class="fa fa-facebook"></a> 
 	    <a href="https://github.com/vilmey" target="_blank" class="fa fa-github"></a></h3>
 	  </div>
