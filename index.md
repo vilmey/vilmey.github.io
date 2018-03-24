@@ -1,12 +1,11 @@
-## Vilmey Filho
-Electronic Engineer interested in technology and facinated about how thing work. I like to work with hardware as much as I like to program !
-
-### Portifolio
-
-Here you can check out some of my latest projects.
-
 
 <html lang="en">
+	<head>
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	</head>
 	<body data-spy="scroll" data-target=".navbar" data-offset="50">
 	  <nav class="navbar navbar-inverse navbar-fixed-top">
 	    <div class="container-fluid">
