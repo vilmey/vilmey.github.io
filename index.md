@@ -173,12 +173,12 @@
 	 </div>
 	  <div>
 	    <h3 class="text-center">You can also find me at:</h3>
-	    <p class="text-center"><a href="https://www.linkedin.com/in/vilmey/?locale=en_US" target="_blank" class="fa fa-linkedin"></a> 
+	    <h3 class="text-center"><a href="https://www.linkedin.com/in/vilmey/?locale=en_US" target="_blank" class="fa fa-linkedin"></a> 
 	    <a href="#" class="fa fa-facebook"></a> 
-	    <a href="https://github.com/vilmey" target="_blank" class="fa fa-github"></a></p>
+	    <a href="https://github.com/vilmey" target="_blank" class="fa fa-github"></a></h3>
 	  </div>
 	  <footer class="text-center"> Codded by <a href="https://www.freecodecamp.org/vilmey" target="_blank">
-	  vilmey</a>
+	  Vilmey</a>
 	  </footer>
 		<script data-cfasync="false" type="text/javascript"
 			src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js">
