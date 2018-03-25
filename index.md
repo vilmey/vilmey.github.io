@@ -40,7 +40,7 @@
 	        		<p>Bachelor in Electronic Engineering from University of Brasilia – Brazil. I am interested in technology and it's applications for a better world.</p>
 	      		</div>
 	      		<div class="col-xs-3" id="div-profile">
-	        		<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA0lAAAAJGI2ODU4YTI1LTMxOWItNDI2Zi04ZGUxLTYzYmFkNzExYzliNA.jpg" alt="Vilmey's profile picture" class="img-responsive" id="img-profile">
+	        		<img src="https://avatars2.githubusercontent.com/u/14240512?v=4" alt="Vilmey's profile picture" class="img-responsive" id="img-profile">
 	      		</div>
 	    	</div>
 	    	<div id="website" class="container-fluid">
