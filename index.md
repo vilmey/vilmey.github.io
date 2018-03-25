@@ -149,7 +149,7 @@
 	    		<div>
 		      		<form method="post" id="gform" name ="contactform" action="https://script.google.com/macros/s/AKfycbwXr4e9b4hdhcjL3UdGLHep2p0AiiCmzXBDiVx6YxQq_gz1RjY/exec">   
 		        		<label class="sr-only">Keep this field blank</label>
-		  				<input display="none" type="text" name="honeypot" value="" />
+		  				<input type="hidden" name="honeypot" value="" />
 		        		<div class="input-group">
 		          			<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
 		          			<input type="text" name="name" placeholder="Name" class="form-control" id="name" required>
