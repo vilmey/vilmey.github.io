@@ -19,15 +19,15 @@
 	      		</div>
 	      		<div class="collapse navbar-collapse" id="myNavbar">
 	        		<ul class="nav navbar-nav navbar-right">
-	          			<li><a href="#about"><span class="glyphicon glyphicon-info-sign"></span> <h5>About</h5></a></li>
+	          			<li><a href="#about"><span class="glyphicon glyphicon-info-sign"></span> <strong>About</strong></a></li>
 	          			<li class="dropdown">
-	            			<a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-book"></span> Portfolio <span class="caret"></span></a>
+	            			<a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-book"></span><strong> Portfolio</strong> <span class="caret"></span></a>
 	          				<ul class="dropdown-menu">
 	            				<li><a href="#website"> <strong>Websites</strong> </a></li>
-	            				<li><a href="#projects"> <b>Projects</b> </a></li>
+	            				<li><a href="#projects"> <strong>Projects</strong> </a></li>
 	            			</ul>
 			          	</li>
-			          	<li><a href="#contact"><span class="glyphicon glyphicon-phone"></span> Contact</a></li>
+			          	<li><a href="#contact"><span class="glyphicon glyphicon-phone"></span> <strong>Contact</strong></a></li>
 			        </ul>
 			    </div>
 	    	</div>
